@@ -1,10 +1,10 @@
 # Full Text Search
 
-## What is full-text search?
+## What is full text search?
 
 Unlike traditional search methods that rely on exact word or phrase matches, a full-text search refers to a search of all of the documents' contents within the full-text queries’ range(s) that are relevant. This includes topic, phrasing, citation, or additional text attributes.
 
-## Different search platforms for full-text search
+## Different search platforms for full text search
 
 ## Elasticsearch
 
